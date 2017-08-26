@@ -88,11 +88,6 @@ dosya2.place(x=70, y=150)
 
 
 
-##############   Sıkıldım Amk    #################################
-
-############## Kahve molasının ardından DEVAMMM ##################
-
-
 ##############################################
 # DOSYA UZANTI SIRALAMA ETİKETLERİ
 dosya1L = Label(text="Dosya 1:", fg="red")
